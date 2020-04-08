@@ -86,7 +86,7 @@ Añadiremos esta sentencia para agregar el atributo “edición” fuera de las 
 
 ## Contenido:
 
-<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/Introduccion.html/">I.	Introducción a SQL</a>
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/Introduccion.html">I.	Introducción a SQL</a>
 
 II.	DDL: Data Definition Language
 
@@ -97,9 +97,3 @@ II.	DDL: Data Definition Language
 <a href="https://fing-up.github.io/Ingenieria-de-datos/sql/CB.html">V.	Consultas Básicas</a>
 
 <a href="https://fing-up.github.io/Ingenieria-de-datos/sql/CA.html">VII.	Consultas Agrupada</a>
-
-
-
-```python
-
-```
